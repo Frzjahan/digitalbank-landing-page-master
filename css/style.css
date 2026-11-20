@@ -176,7 +176,7 @@ main{
 
 .introduction-image img{
     z-index: 1;
-    transform: translate(16%, -3%);
+    transform: translate(16%, 0%);
 }
 
 .about{
